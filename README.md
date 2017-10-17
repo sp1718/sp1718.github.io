@@ -1,6 +1,6 @@
 # Python-Kurs "Symbolische Programmiersprache"
 ### Wintersemester 2017 / 2018
-### Centrum für Informations- und Sprachtverarbeitung, LMU München
+### Centrum für Informations- und Sprachverarbeitung, LMU München
 
  - Zeit/Vorlesung: Di 16:00-18-00
  - Ort/Vorlesung: Hörsaal L 155, Oettingenstr. 67
