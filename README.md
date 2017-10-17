@@ -23,3 +23,8 @@ Zur eigenständigen Vertiefung der Python-Grundkenntnisse wird dieses Online-Tut
 Für die Übungen benötigen Sie einen GitLab Account des IFI:  [Mehr Informationen](http://www.rz.ifi.lmu.de/Dienste/Gitlab.html){:target="_blank"}
 
 Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://goo.gl/forms/12lapqzEvKTWsEB32){:target="_blank"}
+
+| Date | slides | homework | materials |
+|-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
+| Oct. 17, 2017 | [Course Intro](01_intro.pdf){:target="_blank"} [Python Basics](01_python_basics.pdf){:target="_blank"} |  | |
+
