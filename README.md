@@ -7,7 +7,7 @@
  - Zeit/Übung: Do 16:00-18:00 (c.t.) und (optional) Mo 16:00-18:0
  - Ort/Übung: CIP Pool (Sibirien/Gobi)
 
- - Dozent: Dr. Benjamin Roth
+ - Dozent: Benjamin Roth, Marina Sedinkina
  - Tutoren: Daniel Weber, Dominik Braun, Simon Preißner
  
 Sie erreichen den Dozenten und die Tutoren unter:
@@ -27,4 +27,5 @@ Für die Übungen benötigen Sie einen GitLab Account des IFI:  [Mehr Informatio
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
 | Oct. 17, 2017 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_basics.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} |  | |
+
 
