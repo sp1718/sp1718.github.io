@@ -26,5 +26,5 @@ Für die Übungen benötigen Sie einen GitLab Account des IFI:  [Mehr Informatio
 
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
-| Oct. 17, 2017 | [Course Intro](01_intro.pdf){:target="_blank"} [Python Basics](01_python_basics.pdf){:target="_blank"} |  | |
+| Oct. 17, 2017 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_basics.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} |  | |
 
