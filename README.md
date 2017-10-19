@@ -24,7 +24,7 @@ Für die Übungen benötigen Sie einen GitLab Account des IFI:  [Mehr Informatio
 
 Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://goo.gl/forms/12lapqzEvKTWsEB32){:target="_blank"}
 
-Falls Sie noch kein Team haben, können Sie den Code des ersten Übungsblatt hier einsehen: [basics.py](basics.py){:target="_blank"}
+Falls Sie noch kein Team haben, können Sie den Code des ersten Übungsblattes hier einsehen: [basics.py](basics.py){:target="_blank"}
 Verwenden Sie aber zur Bearbeitung und Abgabe auf jeden Fall das Gitlab Repository.
 
 | Date | slides | homework | materials |
