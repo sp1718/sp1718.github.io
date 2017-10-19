@@ -24,8 +24,13 @@ Für die Übungen benötigen Sie einen GitLab Account des IFI:  [Mehr Informatio
 
 Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://goo.gl/forms/12lapqzEvKTWsEB32){:target="_blank"}
 
+Falls Sie noch kein Team haben, können Sie den Code des ersten Übungsblatt hier einsehen: [basics.py](basics.py){:target="_blank"}
+Verwenden Sie aber zur Bearbeitung und Abgabe auf jeden Fall das Gitlab Repository.
+
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
 | Oct. 17, 2017 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_basics.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} |  | |
+| Oct. 19, 2017 |  | [Homework 1](hw01_basics.pdf){:target="_blank"} | |
+
 
 
