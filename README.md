@@ -32,5 +32,5 @@ Verwenden Sie aber zur Bearbeitung und Abgabe auf jeden Fall das Gitlab Reposito
 | Oct. 17, 2017 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_basics.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} |  | |
 | Oct. 19, 2017 |  | [Homework 1](hw01_basics.pdf){:target="_blank"} | [Git Introduction](git_intro_1.pdf){:target="_blank"} |
 | Oct. 24, 2017 | [Objektorientierung I](objektorientierungI.pdf){:target="_blank"}; [Wiederholung: Listen](wiederholung-listen.pdf){:target="_blank"} |  | [OOP Skript (englisch, Zusatzmaterial)](oop_script.pdf){:target="_blank"} |
-| Oct. 26, 2017 |  | [Homework 2](hw02_oop.pdf){:target="_blank"} | |
+| Oct. 26, 2017 |  | [Homework 2](hw02_oop.pdf){:target="_blank"} | [PyCharm (optional, jedoch vorteilhaft zur Übungsbearbeitung)](pycharm.pdf){:target="_blank"} |
 
