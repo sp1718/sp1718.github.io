@@ -10,7 +10,10 @@
  - Dozent: Benjamin Roth, Marina Sedinkina
  - Tutoren: Daniel Weber, Dominik Braun, Simon Preißner
 
-**Achtung: Die Übung am Mo, 30.10.17 entfällt.** Die Übungsaufsicht am Do, 2.11.17 übernimmt Dominik Braun.
+**Achtung:
+Die Übung am Mo, 30.10.17 entfällt.
+Die Übungsaufsicht am Do, 2.11.17 übernimmt Dominik Braun.**
+
 Sie erreichen den Dozenten und die Tutoren unter:
 
 sp1718 [at] cis [dot] uni [minus] muenchen [dot] de
