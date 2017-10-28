@@ -4,12 +4,13 @@
 
  - Zeit/Vorlesung: Di 16:00-18-00 (c.t.)
  - Ort/Vorlesung: Hörsaal L 155, Oettingenstr. 67
- - Zeit/Übung: Do 16:00-18:00 (c.t.) und (optional) Mo 16:00-18:0
+ - Zeit/Übung: Do 16:00-18:00 (c.t.) und (optional) Mo 16:00-18:00
  - Ort/Übung: CIP Pool (Sibirien/Gobi)
 
  - Dozent: Benjamin Roth, Marina Sedinkina
  - Tutoren: Daniel Weber, Dominik Braun, Simon Preißner
- 
+
+**Achtung: Die Übung am Mo, 30.10.17 entfällt.** Die Übungsaufsicht am Do, 2.11.17 übernimmt Dominik Braun.
 Sie erreichen den Dozenten und die Tutoren unter:
 
 sp1718 [at] cis [dot] uni [minus] muenchen [dot] de
