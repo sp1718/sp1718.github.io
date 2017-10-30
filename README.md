@@ -11,8 +11,7 @@
  - Tutoren: Daniel Weber, Dominik Braun, Simon Preißner
 
 **Achtung:  
-Die Übung am Mo, 30.10.17 entfällt.  
-Die Übungsaufsicht am Do, 2.11.17 übernimmt Dominik Braun.**
+Die Übung am Mo, 30.10.17 entfällt.  **
 
 Sie erreichen den Dozenten und die Tutoren unter:
 
