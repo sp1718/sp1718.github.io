@@ -36,7 +36,8 @@ Verwenden Sie aber zur Bearbeitung und Abgabe auf jeden Fall das Gitlab Reposito
 | Oct. 19, 2017 |  | [Homework 1](hw01_basics.pdf){:target="_blank"} | [Git Introduction](git_intro_1.pdf){:target="_blank"} |
 | Oct. 24, 2017 | [Objektorientierung I](objektorientierungI.pdf){:target="_blank"}; [Wiederholung: Listen](wiederholung-listen.pdf){:target="_blank"} |  | [OOP Skript (englisch, Zusatzmaterial)](oop_script.pdf){:target="_blank"} |
 | Oct. 26, 2017 |  | [Homework 2](hw02_oop.pdf){:target="_blank"} | [PyCharm (optional, jedoch vorteilhaft zur Übungsbearbeitung)](pycharm.pdf){:target="_blank"} |
-| Nov. 6, 2017 | [Objektorientierung II](03_objects_modules.pdf){:target="_blank"}; [Dokumentenklasse; Unit-Test](03_documents_unittest.pdf){:target="_blank"}; [TF-IDF](03_tf_idf.pdf){:target="_blank"} |  |  |
+| Nov. 6, 2017 | [Objektorientierung II](03_objects_modules.pdf){:target="_blank"}; [Dokumentenklasse; Unit-Test](03_documents_unittest.pdf){:target="_blank"} |  |  |
 | Nov. 9, 2017 |  | [Homework 3](hw03_documents.pdf){:target="_blank"} | |
+| Nov. 14, 2017 | [TF-IDF](03_tf_idf.pdf){:target="_blank"}; [Simple Search Engine](04_search_engine.pdf){:target="_blank"}  |  |  |
 
 
