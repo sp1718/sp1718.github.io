@@ -39,6 +39,7 @@ Verwenden Sie aber zur Bearbeitung und Abgabe auf jeden Fall das Gitlab Reposito
 | Nov. 6, 2017 | [Objektorientierung II](03_objects_modules.pdf){:target="_blank"}; [Dokumentenklasse; Unit-Test](03_documents_unittest.pdf){:target="_blank"} |  |  |
 | Nov. 9, 2017 |  | [Homework 3](hw03_documents.pdf){:target="_blank"} | |
 | Nov. 14, 2017 | [TF-IDF](03_tf_idf.pdf){:target="_blank"}; [Simple Search Engine](04_search_engine.pdf){:target="_blank"}  |  |  |
-| Nov. 16, 2017 | [Homework 4](hw04_text_search.pdf){:target="_blank"}  |  | [enron.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/enron.tgz){:target="_blank"} |
+| Nov. 16, 2017 | | [Homework 4](hw04_text_search.pdf){:target="_blank"}  | [enron.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/enron.tgz){:target="_blank"} |
+| Nov. 14, 2017 | [Objektorientierung III](05_objects_inheritance.pdf){:target="_blank"}; [Maschinelles Lerner](05_maschinelles_lernen_intro.pdf){:target="_blank"}  |  |  |
 
 
