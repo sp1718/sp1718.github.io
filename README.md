@@ -10,8 +10,7 @@
  - Dozent: Benjamin Roth, Marina Sedinkina
  - Tutoren: Daniel Weber, Dominik Braun, Simon Preißner
 
-**Achtung:  
-Die Übung am Mo, 30.10.17 entfällt.**
+**Wenn Ihr Team in das Repository mit Beispielabgen aufgenommen werden will füllen Sie bitte das folgende Webformular aus. Es werden nur Teams aufgenommen, die ernsthafte Lösungsversuche unternommen haben. [Webformular](https://goo.gl/forms/hU3jqbnK7QYRUtQk2){:target="_blank"}**
 
 Sie erreichen den Dozenten und die Tutoren unter:
 
