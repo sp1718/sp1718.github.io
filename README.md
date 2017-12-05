@@ -41,6 +41,7 @@ Verwenden Sie aber zur Bearbeitung und Abgabe auf jeden Fall das Gitlab Reposito
 | Nov. 16, 2017 | | [Homework 4](hw04_text_search.pdf){:target="_blank"}  | [enron.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/enron.tgz){:target="_blank"} |
 | Nov. 21, 2017 | [Objektorientierung III](05_objects_inheritance.pdf){:target="_blank"}; [Klassifikation](05_maschinelles_lernen_intro.pdf){:target="_blank"}  |  |  |
 | Nov. 21, 2017 | [Perceptron](perceptron_short.pdf){:target="_blank"} | [Homework 5](hw05_perceptron.pdf){:target="_blank"} |Literatur: Hal Daume [(pdf)](http://www.ciml.info/dl/v0_99/ciml-v0_99-ch04.pdf){:target="_blank"}|
+| Dec. 05, 2017 | [Supervised and Unsupervised Learning](unsupervised-supervised-learning.pdf){:target="_blank"}  |  |  |
 
 
 
