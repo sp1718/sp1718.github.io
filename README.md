@@ -43,6 +43,7 @@ Verwenden Sie aber zur Bearbeitung und Abgabe auf jeden Fall das Gitlab Reposito
 | Nov. 21, 2017 | [Perceptron](perceptron_short.pdf){:target="_blank"} | [Homework 5](hw05_perceptron.pdf){:target="_blank"} |Literatur: Hal Daume [(pdf)](http://www.ciml.info/dl/v0_99/ciml-v0_99-ch04.pdf){:target="_blank"}|
 | Dec. 05, 2017 | [Supervised and Unsupervised Learning](unsupervised-supervised-learning.pdf){:target="_blank"}  |  |  |
 | Dec. 07, 2017 | | [Homework 6](hw06_knn.pdf){:target="_blank"}  | |
+| Dec. 12, 2017 | [NLTK and Lexical Information](nltk.pdf){:target="_blank"}  |  |  |
 
 
 
