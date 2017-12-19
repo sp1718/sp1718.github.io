@@ -43,7 +43,7 @@ Verwenden Sie aber zur Bearbeitung und Abgabe auf jeden Fall das Gitlab Reposito
 | Dec. 07, 2017 | | [Homework 6](hw06_knn.pdf){:target="_blank"}  | |
 | Dec. 12, 2017 | [NLTK and Lexical Information](nltk.pdf){:target="_blank"}  |  |  |
 | Dec. 14, 2017 | | [Homework 7](hw07_nltk_kmeans.pdf){:target="_blank"}  | [courses.txt](courses.txt){:target="_blank"} |
-
+| Dec. 19, 2017 | [Text Corpora and Lexical Resources](corpora.pdf){:target="_blank"}  |  |  |
 
 
 
