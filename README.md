@@ -46,5 +46,5 @@ Verwenden Sie aber zur Bearbeitung und Abgabe auf jeden Fall das Gitlab Reposito
 | Dec. 19, 2017 | [Text Corpora and Lexical Resources](corpora.pdf){:target="_blank"}  |  |  |
 | Dec. 21, 2017 | | [Homework 8](08.pdf){:target="_blank"}  | |
 | Jan. 09, 2018 | [WordNet](wordnet.pdf){:target="_blank"}  |  |  |
-
+| Jan. 11, 2018 | | [Homework 9](wordnet.pdf){:target="_blank"}  | |
 
