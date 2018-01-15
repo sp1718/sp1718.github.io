@@ -2,6 +2,14 @@
 ### Wintersemester 2017 / 2018
 ### Centrum für Informations- und Sprachverarbeitung, LMU München
 
+ - Zeit/Vorlesung: Di 16:00-18-00 (c.t.)
+ - Ort/Vorlesung: Hörsaal L 155, Oettingenstr. 67
+ - Zeit/Übung: Do 16:00-18:00 (c.t.) und (optional) Mo 16:00-18:00
+ - Ort/Übung: CIP Pool (Sibirien/Gobi)
+
+ - Dozenten: Benjamin Roth, Marina Sedinkina
+ - Tutoren: Daniel Weber, Dominik Braun, Simon Preißner
+- - -
 <span style="color:red">**Die Klausur findet am 6.2.2018 von 16:00-18:00, Hörsaal L 155 statt.**</span>
  - <span style="color:red">Computerlinguisten, und Studenten mit Hauptfach das über LSF verwaltet wird, müssen sich über das LSF anmelden</span>
  - <span style="color:red">*nur* Studenten mit Hauptfach Informatik verwenden bitte das [Webformular](https://goo.gl/forms/jt0a9KwEBZ55uTTH2){:target="_blank"}</span>
@@ -14,14 +22,6 @@
   - Beginn: 17:00
   - Dauer: 45 Minuten
   - Themen: Inhalt der Programmier-Übungen
-
- - Zeit/Vorlesung: Di 16:00-18-00 (c.t.)
- - Ort/Vorlesung: Hörsaal L 155, Oettingenstr. 67
- - Zeit/Übung: Do 16:00-18:00 (c.t.) und (optional) Mo 16:00-18:00
- - Ort/Übung: CIP Pool (Sibirien/Gobi)
-
- - Dozent: Benjamin Roth, Marina Sedinkina
- - Tutoren: Daniel Weber, Dominik Braun, Simon Preißner
 
 Sie erreichen den Dozenten und die Tutoren unter:
 
