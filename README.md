@@ -7,13 +7,13 @@
  - <span style="color:red">*nur* Studenten mit Hauptfach Informatik verwenden bitte das [Webformular](https://goo.gl/forms/jt0a9KwEBZ55uTTH2){:target="_blank"}</span>
  - Die Klausur besteht aus zwei Teilen. 
  - Klausur-Teil "Vorlesung":
- -- Beginn: 16:00
- -- Dauer: 45 Minuten
- -- Themen: Stoff der Vorlesung
+  - Beginn: 16:00
+  - Dauer: 45 Minuten
+  - Themen: Stoff der Vorlesung
  - Klausur-Teil "Übung": 
- -- Beginn: 17:00
- -- Dauer: 45 Minuten
- -- Themen: Inhalt der Programmier-Übungen
+  - Beginn: 17:00
+  - Dauer: 45 Minuten
+  - Themen: Inhalt der Programmier-Übungen
 
  - Zeit/Vorlesung: Di 16:00-18-00 (c.t.)
  - Ort/Vorlesung: Hörsaal L 155, Oettingenstr. 67
