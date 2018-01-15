@@ -9,7 +9,9 @@
 
  - Dozenten: Benjamin Roth, Marina Sedinkina
  - Tutoren: Daniel Weber, Dominik Braun, Simon Preißner
+
 - - -
+
 <span style="color:red">**Die Klausur findet am 6.2.2018 von 16:00-18:00, Hörsaal L 155 statt.**</span>
  * <span style="color:red">Computerlinguisten, und Studenten mit Hauptfach das über LSF verwaltet wird, müssen sich über das LSF anmelden</span>
  * <span style="color:red">*nur* Studenten mit Hauptfach Informatik verwenden bitte das [Webformular](https://goo.gl/forms/jt0a9KwEBZ55uTTH2){:target="_blank"}</span>
