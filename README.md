@@ -14,7 +14,7 @@
 
 <span style="color:red">**Die Klausur findet am 6.2.2018 von 16:00-18:00, Hörsaal L 155 statt.**</span>
 * <span style="color:red">Computerlinguisten, und Studenten mit Hauptfach das über LSF verwaltet wird, müssen sich über das LSF anmelden</span>
-* <span style="color:red">*nur* Studenten mit Hauptfach Informatik verwenden bitte das [Webformular](https://goo.gl/forms/jt0a9KwEBZ55uTTH2){:target="_blank"}</span>
+* <span style="color:red">*nur* Studenten mit Hauptfach Informatik verwenden bitte das [Webformular](https://goo.gl/forms/jt0a9KwEBZ55uTTH2){:target="_blank"} (Frist: 26.1.)</span>
 * Sie könne ein selbst von Hand beschriebenes 2-seitiges Din-A4 Blatt mit zur Klausur bringen. Andere Hilfsmittel sind nicht erlaubt.
 * Die Klausur besteht aus zwei Teilen. 
 * Klausur-Teil "Vorlesung":
