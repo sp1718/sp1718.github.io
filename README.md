@@ -26,6 +26,11 @@
   * Dauer: 45 Minuten
   * Themen: Programmier-Übungen und Aufgaben in Python
 
+
+- - -
+Die Nachklausur findet am Samstag, den 10.3.2018 um 14:00 statt (Hörsaal BU101)
+- - -
+
 Sie erreichen den Dozenten und die Tutoren unter:
 
 sp1718 [at] cis [dot] uni [minus] muenchen [dot] de
