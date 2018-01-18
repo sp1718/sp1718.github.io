@@ -69,4 +69,4 @@ Verwenden Sie aber zur Bearbeitung und Abgabe auf jeden Fall das Gitlab Reposito
 | Jan. 09, 2018 | [WordNet](wordnet_lecture.pdf){:target="_blank"}  |  |  |
 | Jan. 11, 2018 | | [Homework 9](wordnet.pdf){:target="_blank"}  | |
 | Jan. 16, 2018 | [Web Crawling](web_crawling.pdf){:target="_blank"}  |  |  |
-
+| Jan. 18, 2018 | | [Homework 10](crawling.pdf){:target="_blank"}  | |
