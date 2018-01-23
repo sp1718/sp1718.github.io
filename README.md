@@ -70,3 +70,5 @@ Verwenden Sie aber zur Bearbeitung und Abgabe auf jeden Fall das Gitlab Reposito
 | Jan. 11, 2018 | | [Homework 9](wordnet.pdf){:target="_blank"}  | |
 | Jan. 16, 2018 | [Web Crawling](web_crawling.pdf){:target="_blank"}  |  |  |
 | Jan. 18, 2018 | | [Homework 10](crawling.pdf){:target="_blank"}  | |
+| Jan. 23, 2018 | [Summary](summary.pdf){:target="_blank"}  |  |  |
+| Jan. 25, 2018 | [Probeklausur Vorlesung](probe_klausur_vl.pdf){:target="_blank"}; [Probeklausur Übung](probe_klausur_ue.pdf){:target="_blank"}  |  |  |
