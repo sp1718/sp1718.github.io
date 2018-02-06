@@ -28,7 +28,7 @@
 
 
 - - -
-Die Nachklausur findet am Samstag, den 10.3.2018 um 14:00 statt (*<span style="color:blue">Geschw.-Scholl-Pl. 1 (B) - B 006 (Hör-/ Lehrsaal)</span>*)
+Die Nachklausur findet am Samstag, den 10.3.2018 um 14:00 statt (*<span style="color:red">Geschw.-Scholl-Pl. 1 (B) - B 006 (Hör-/ Lehrsaal)</span>*)
 - - -
 
 Sie erreichen den Dozenten und die Tutoren unter:
