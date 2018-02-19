@@ -12,6 +12,8 @@
 
 <span style="color:red">**[Ergebnisse der Klausur zur Vorlesung](https://sp1718.github.io/ergebnisse_vl_klausur){:target="_blank"} und [Ergebnisse der Klausur zur Übung](https://sp1718.github.io/ergebnisse_ue_klausur){:target="_blank"}**</span> (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind.)
 
+Klausureinsicht: Mittwoch, 21.2.2018, 16:00-17:00, Raum C 105, und nach Vereinbarung.
+
 - - -
 
 <span style="color:red">**Die Klausur findet am 6.2.2018 von 16:00-18:00, Hörsaal L 155 statt.**</span>
