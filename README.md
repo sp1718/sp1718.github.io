@@ -10,29 +10,24 @@
  - Dozenten: Benjamin Roth, Marina Sedinkina
  - Tutoren: Daniel Weber, Dominik Braun, Simon Preißner
 
-<span style="color:red">**[Ergebnisse der Klausur zur Vorlesung](https://sp1718.github.io/ergebnisse_vl_klausur){:target="_blank"} und [Ergebnisse der Klausur zur Übung](https://sp1718.github.io/ergebnisse_ue_klausur){:target="_blank"}**</span> (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind - entsprechende Email-Anfragen bleiben unbeantwortet.)
-
-Klausureinsicht: Mittwoch, 21.2.2018, 16:00-17:00, Raum C 105, und nach Vereinbarung.
+<span style="color:red">**[Ergebnisse der Klausur zur Vorlesung](https://sp1718.github.io/ergebnisse_vl_klausur){:target="_blank"} und [Ergebnisse der Klausur zur Übung](https://sp1718.github.io/ergebnisse_ue_klausur){:target="_blank"}**</span> (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind - entsprechende Email-Anfragen bleiben unbeantwortet.) Klausureinsicht: Mittwoch, 21.2.2018, 16:00-17:00, Raum C 105, und nach Vereinbarung.
 
 - - -
 
-<span style="color:red">**Die Klausur findet am 6.2.2018 von 16:00-18:00, Hörsaal L 155 statt.**</span>
+<span style="color:red">**Die Nachklausur findet am Samstag, den 10.3.2018 um 14:00 statt. Raum: Geschw.-Scholl-Pl. 1 (B) - B 006 (Hör-/ Lehrsaal)**</span>
 * <span style="color:red">Computerlinguisten, und Studenten mit Hauptfach das über LSF verwaltet wird, müssen sich über das LSF anmelden</span>
-* <span style="color:red">*nur* Studenten mit Hauptfach Informatik verwenden bitte das [Webformular](https://goo.gl/forms/jt0a9KwEBZ55uTTH2){:target="_blank"} (Frist: 26.1.)</span>
+* <span style="color:red">*nur* Studenten mit Hauptfach Informatik verwenden bitte das [Webformular](https://goo.gl/forms/ZGL0h0wyfBq4JdAC3){:target="_blank"} (Frist: 8.3.)</span>
 * Sie könne ein selbst von Hand beschriebenes 2-seitiges Din-A4 Blatt mit zur Klausur bringen. Andere Hilfsmittel sind nicht erlaubt.
 * Die Klausur besteht aus zwei Teilen. 
 * Klausur-Teil "Vorlesung":
-  * Beginn: 16:00
+  * Beginn: 14:00
   * Dauer: 45 Minuten
   * Themen: Stoff der Vorlesung
 * Klausur-Teil "Übung": 
-  * Beginn: 17:00
+  * Beginn: 15:00
   * Dauer: 45 Minuten
   * Themen: Programmier-Übungen und Aufgaben in Python
 
-
-- - -
-Die Nachklausur findet am Samstag, den 10.3.2018 um 14:00 statt (*<span style="color:red">Geschw.-Scholl-Pl. 1 (B) - B 006 (Hör-/ Lehrsaal)</span>*)
 - - -
 
 Sie erreichen den Dozenten und die Tutoren unter:
