@@ -21,7 +21,7 @@ Maximal erreichbare Punktzahl in der Klausur (ohne Bonuspunkte aus den Übungsau
 
 Maximal erreichbare Punktzahl in den Übungsaufgaben: 114
 
-Maximal 3 Bonuspunkte werden zu den in der Klausur erreichten Punkte addiert, wenn in der Klausur eine Punktzahl von mindestens 15 
+Maximal 3 Bonuspunkte werden zu den in der Klausur erreichten Punkte addiert, wenn in der Klausur eine Punktzahl von mindestens 14.5 
 erreicht wurde.
 
 Berechnung der Bonuspunkte: ((erreichte Punktzahl in den Übungsaufgaben) / 114) * 3
