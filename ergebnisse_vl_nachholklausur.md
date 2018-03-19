@@ -1,4 +1,4 @@
-## Klausurergebnisse
+## Nachholklausurergebnisse
 ## Bewertungsschema Klausur (Vorlesung)
 
 Maximal erreichbare Punktzahl in der Klausur (ohne Bonuspunkte aus den Übungsaufgaben): 30
