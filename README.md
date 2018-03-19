@@ -10,7 +10,7 @@
  - Dozenten: Benjamin Roth, Marina Sedinkina
  - Tutoren: Daniel Weber, Dominik Braun, Simon Preißner
 
-<span style="color:red">**[Ergebnisse der Klausur zur Vorlesung](https://sp1718.github.io/ergebnisse_vl_nachholklausur){:target="_blank"} **</span> (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind - entsprechende Email-Anfragen bleiben unbeantwortet.)
+<span style="color:red">**[Ergebnisse der Nachholklausur zur Vorlesung](https://sp1718.github.io/ergebnisse_vl_nachholklausur){:target="_blank"}</span> (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind - entsprechende Email-Anfragen bleiben unbeantwortet.)
 
 <span style="color:red">**[Ergebnisse der Klausur zur Vorlesung](https://sp1718.github.io/ergebnisse_vl_klausur){:target="_blank"} und [Ergebnisse der Klausur zur Übung](https://sp1718.github.io/ergebnisse_ue_klausur){:target="_blank"}**</span> (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind - entsprechende Email-Anfragen bleiben unbeantwortet.) Klausureinsicht: Mittwoch, 21.2.2018, 16:00-17:00, Raum C 105, und nach Vereinbarung.
 
